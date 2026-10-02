@@ -1,0 +1,24 @@
+[SndBank Description]
+manufacturer   = Fonix
+version        = 500
+vocabulary     = Large
+technology     = Concat
+name           = UVCore_Jessica
+language       = USEnglish
+pitch          = 110
+speed          = 175
+volume         = 32767
+gender         = Female
+topicList      = 
+encFormat      = Cybit
+encSamplerate  = 8000
+encSamplebits  = 64
+outFormat      = Linear
+outSamplerate  = 8000
+outSamplebits  = 16
+stressLevels   = 28244777882
+polySystem     = FALSE
+pauseLength1   = 650
+pauseLength2   = 500
+pauseLength3   = 350
+pauseLength4   = 0
